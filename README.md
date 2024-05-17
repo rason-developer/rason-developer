@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bruno, but i usually use the name Rason. 
+- 👋 Hi, I’m Bruno, but i usually use the name Rason online. 
 - 👀 I’m interested in back end development. 
 - 🌱 I’m currently learning Python Django.
 - 💞️ I’m looking to collaborate on Back End Projects!
