@@ -6,7 +6,7 @@
 - 💞️ Looking to collaborate on Back End Projects!
 - ⚡ Fun fact: I want to work with quantum computers in the future! I also have a [YouTube Account](#).
 
-## 🛠️ Skills
+## 🛠️ Skills (in order of knowledge)
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
