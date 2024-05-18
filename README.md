@@ -4,7 +4,7 @@
 - 🎓 I have a Bachelor's degree in Software Engineering from ISEC.
 - 🌱 Currently learning Python Django.
 - 💞️ Looking to collaborate on Back End Projects!
-- ⚡ Fun fact: I want to work with quantum computers in the future! I also have a [YouTube Account](#).
+- ⚡ Fun fact: I want to work with quantum computers in the future! I also have a [YouTube Account](https://www.youtube.com/channel/UCvvl7R-J49_3iR0Khby4bYw).
 
 ## 🛠️ Skills (in order of knowledge)
 
